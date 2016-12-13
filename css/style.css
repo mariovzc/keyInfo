@@ -1,0 +1,12 @@
+html{
+    background-color:#7CB342;
+    color: #fff;
+    text-align: center;
+}
+#keycode-display{
+    font-size: 6em;
+}
+#text-display{
+    font-size: 4em;
+    transition: 0.5s;
+}
